@@ -313,7 +313,7 @@ E.L.B.E.R.R/
 
 ### 🟣 EARLY RESEARCH / INITIAL SETUP
 
-**Repository established • Specification pending • Literature review pending • Implementation pending**
+**Repository established • Specification established • Literature review pending • Implementation pending**
 
 </div>
 
