@@ -119,7 +119,7 @@ The two tracks continuously interact:
                 ▼
           🔎 Analysis
                 │
-                └──────────────► 🔁 Iterate
+                └─────────────► 🔁 Iterate
 ```
 
 ---
